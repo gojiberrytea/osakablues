@@ -1,0 +1,89 @@
+body {
+  background-image: url(https://i.pinimg.com/564x/a1/3e/2d/a13e2d6b9f65ba2d811a5e2385d71b20.jpg);
+  font-family: 'Trebuchet MS';
+  padding: 20px;
+}
+
+h1 {
+  font-size: 28px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+.established {
+  font-style: italic;
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+.menu {
+  width: 300px;
+  background-color: azure;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+hr {
+  height: 1px;
+  background-color: lightblue;
+  border-color: lightblue;
+}
+
+.bottom-line {
+  margin-top: 25px;
+}
+
+h1, h2 {
+  font-family: Helvetica;
+}
+
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+.flavor, .dessert {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 25%;
+}
+
+/* FOOTER */
+
+footer {
+  font-size: 14px;
+}
+
+.address {
+  margin-bottom: 5px;
+}
+
+a {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: cornflowerblue;
+}
+
+a:active {
+  color: deepskyblue;
+} 

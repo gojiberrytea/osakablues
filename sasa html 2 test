@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="stylesheetsasa.css">
+    </head>
+    <body>
+        <div class="menu">
+            <header>
+                <h1>TREASURE</h1>
+                <p class="established">Est. 2020</p>
+            </header>
+            <hr>
+            <main>
+                <section>
+                    <h2>Top 5 Most Listened Songs on Spotify</h2>
+                    <article class ="item">
+                        <p class="flavor">Darari</p><p class="price">104M</p>
+                    </article>
+                    <article class="item">
+                        <p class="flavor">BOY</p><p class="price">49M</p>
+                    </article>
+                    <article class="item">
+                        <p class="flavor">I Love You</p><p class="price">47M</p>
+                    </article>
+                    <article class="item">
+                        <p class="flavor">Jikjin</p><p class="price">44M</p>
+                    </article>
+                    <article class="item">
+                        <p class="flavor">MMM</p><p class="price">28M</p>
+                    </article>
+                </section>
+                <section>
+                    <h2>Top 5 Most Viewed MV on Youtube</h2>
+                    <article class ="item">
+                        <p class="dessert">BOY</p><p class="price">111M</p>
+                    </article>
+                    <article class="item">
+                        <p class="dessert">I Love You</p><p class="price">97M</p>
+                    </article>
+                    <article class="item">
+                        <p class="dessert">Jikjin</p><p class="price">95M</p>
+                    </article>
+                    <article class="item">
+                        <p class="dessert">Going Crazy (Perf. film)</p><p class="price">81M</p>
+                    </article>
+                    <article class="item">
+                        <p class="dessert">MMM</p><p class="price">58M</p>
+                    </article>
+                </section>
+            </main>
+            <hr class="bottom-line">
+            <footer>
+                <p>
+                    <a href="https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP?si=XDuPMn-DQ5Gd-6EfVKWMYw" target="_blank">Visit TREASURE here</a>
+                </p>
+                <p class="address">Credits to <a href="https://twitter.com/nagoyablues">@nagoyablues</a></p>
+            </footer>
+        </div>    
+    </body>
+</html>
